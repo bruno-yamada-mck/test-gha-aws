@@ -2,5 +2,3 @@
 
 It contains sample action and terraform code in the `tf/` directory. JWT token is printed for the demo purpose
 
-
-dewdwe
